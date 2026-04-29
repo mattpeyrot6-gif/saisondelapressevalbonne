@@ -98,7 +98,7 @@ Commerce familial situé à Valbonne Village, alliant presse, librairie, papeter
 
 <section>
   <h2>Contact</h2>
-  <p style="text-align:center;">📍 Votre ville<br>📞 01 23 45 67 89<br>✉️ contact@boutique.fr</p>
+  <p style="text-align:center;">📍 55 Route de Grasse 06560 Valbonne Village<br>📞 04 93 12 07 87<br>✉️ eriklescoches@aol.com</p>
 </section>
 
 <footer>
